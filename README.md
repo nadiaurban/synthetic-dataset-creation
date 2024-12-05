@@ -20,7 +20,7 @@ It is ideal for practicing:
 ### Key Features
 - **Simulated Relationships**: Variables are correlated to reflect real-world patterns (e.g., age and democracy rating, education and political knowledge).
 - **Reproducibility**: A random seed ensures consistent results when regenerating the dataset.
-
+- **Diversity** a mix of continuous, ordinal, and categorical variables,
 ### Repository Files
 - **Survey Perspectives on Democracy and Social Issues.docx**: The survey used for dataset creation.
 - **Synthetic_Democracy_Dataset.csv**: The generated synthetic dataset.
