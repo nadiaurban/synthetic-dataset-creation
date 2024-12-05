@@ -1,0 +1,1001 @@
+Age,Gender,Education_Level,Income_Level,Democracy_Rating,Trust_in_Government,Voted_Last_Election,Political_Knowledge,Media_Consumption,Social_Equality_Support
+56,Male,High School,High,10,5,Yes,8,Daily,5
+69,Female,High School,Middle,5,2,Yes,10,Weekly,2
+46,Male,Bachelor's,Middle,6,4,No,7,Daily,5
+32,Female,High School,Middle,3,2,Yes,10,Daily,2
+60,Female,High School,High,9,1,Yes,10,Daily,2
+25,Male,Bachelor's,Low,9,1,Yes,5,Daily,5
+78,Male,Bachelor's,Middle,10,5,Yes,8,Daily,4
+38,Male,Bachelor's,Middle,5,3,Yes,7,Daily,5
+56,Male,Master's,Middle,7,4,Yes,7,Weekly,5
+75,Male,Bachelor's,High,7,4,Yes,4,Daily,3
+36,Female,Bachelor's,Low,4,3,No,9,Daily,5
+40,Female,High School,High,7,1,Yes,6,Daily,2
+28,Female,Bachelor's,Low,10,1,Yes,6,Weekly,3
+28,Female,High School,Low,9,2,Yes,9,Rarely,3
+41,Female,PhD,Low,10,5,No,10,Daily,3
+70,Female,Master's,Low,10,5,Yes,10,Rarely,5
+53,Female,Bachelor's,Middle,10,5,Yes,5,Daily,5
+57,Male,High School,Low,9,2,Yes,4,Rarely,5
+41,Male,Master's,Low,10,5,Yes,8,Daily,5
+20,Male,Master's,High,9,3,Yes,8,Weekly,4
+39,Male,High School,High,9,2,No,10,Weekly,3
+70,Male,High School,High,10,3,No,3,Daily,5
+19,Male,Master's,High,7,2,Yes,4,Rarely,2
+41,Female,High School,Middle,3,5,Yes,9,Weekly,3
+61,Female,Master's,Low,7,3,No,6,Daily,4
+47,Male,Bachelor's,Low,6,3,Yes,3,Daily,4
+55,Male,High School,Middle,7,3,No,2,Daily,5
+19,Male,Master's,Low,10,2,Yes,10,Rarely,5
+77,Female,High School,Middle,9,4,No,3,Weekly,5
+38,Male,Bachelor's,Low,5,5,No,8,Daily,5
+50,Female,High School,Low,4,3,No,7,Weekly,5
+29,Male,High School,Middle,7,4,Yes,4,Rarely,3
+75,Female,Bachelor's,Middle,10,5,Yes,6,Weekly,5
+39,Female,Bachelor's,Middle,9,5,No,4,Weekly,5
+78,Male,Bachelor's,Middle,10,3,Yes,4,Weekly,5
+61,Female,Master's,Low,9,3,Yes,10,Daily,4
+42,Female,Bachelor's,Low,4,2,No,3,Daily,3
+66,Female,High School,High,10,4,No,8,Rarely,3
+44,Male,High School,Middle,7,4,No,2,Daily,5
+76,Female,Master's,Low,9,3,Yes,9,Rarely,4
+59,Female,Master's,High,10,5,No,6,Daily,5
+45,Female,Bachelor's,Low,10,3,No,10,Daily,5
+77,Female,High School,Middle,10,5,Yes,7,Rarely,3
+33,Female,High School,Low,4,5,Yes,10,Weekly,5
+32,Female,Bachelor's,Middle,8,3,Yes,4,Daily,5
+79,Female,Master's,Middle,4,1,Yes,10,Weekly,1
+79,Female,Bachelor's,Low,4,4,No,7,Weekly,5
+64,Female,Master's,High,10,5,Yes,10,Weekly,5
+79,Male,Master's,Middle,10,5,No,10,Daily,5
+68,Female,High School,Low,10,1,No,7,Rarely,3
+61,Female,Bachelor's,Low,10,2,Yes,4,Rarely,2
+72,Male,High School,Low,10,1,No,9,Daily,1
+69,Female,High School,Low,8,1,Yes,10,Rarely,1
+74,Male,Master's,Middle,10,5,No,9,Rarely,3
+20,Female,Bachelor's,High,3,4,Yes,8,Weekly,5
+54,Female,Bachelor's,Middle,10,1,No,10,Weekly,2
+68,Female,High School,Low,9,2,Yes,2,Daily,5
+24,Male,High School,Low,10,3,Yes,3,Daily,4
+38,Female,High School,Low,3,1,No,10,Weekly,5
+26,Female,High School,Middle,4,1,Yes,10,Rarely,4
+56,Male,Bachelor's,Middle,10,2,Yes,10,Weekly,2
+35,Male,High School,Low,2,4,Yes,8,Weekly,5
+21,Female,Bachelor's,Middle,10,1,No,9,Daily,4
+42,Male,High School,High,9,1,Yes,6,Daily,3
+77,Male,High School,Middle,10,4,Yes,3,Daily,3
+31,Female,High School,High,2,2,Yes,10,Daily,5
+67,Male,Bachelor's,Middle,10,1,Yes,8,Weekly,3
+75,Female,Bachelor's,Middle,10,4,Yes,10,Daily,3
+26,Male,Bachelor's,Middle,5,1,Yes,5,Weekly,2
+43,Female,Bachelor's,Middle,10,3,Yes,6,Daily,4
+70,Male,Bachelor's,Low,8,5,Yes,10,Weekly,5
+19,Female,High School,Low,2,3,Yes,10,Weekly,2
+37,Male,High School,Low,10,1,No,3,Daily,4
+45,Female,Master's,Middle,8,2,Yes,5,Daily,5
+64,Male,Bachelor's,Low,6,5,Yes,10,Daily,5
+77,Female,High School,High,10,3,Yes,9,Rarely,5
+24,Female,Master's,Middle,10,4,Yes,10,Daily,5
+61,Female,Master's,Middle,6,2,No,9,Weekly,2
+78,Female,High School,Low,5,3,Yes,6,Never,4
+25,Male,Bachelor's,High,8,4,Yes,10,Weekly,5
+64,Female,Bachelor's,High,10,1,Yes,6,Daily,5
+52,Male,Bachelor's,Middle,6,4,Yes,10,Rarely,5
+31,Male,High School,Low,10,3,Yes,5,Daily,3
+34,Male,High School,Middle,9,3,Yes,6,Daily,2
+53,Female,Bachelor's,Low,3,1,Yes,3,Rarely,1
+67,Female,Bachelor's,Low,4,4,No,3,Weekly,3
+57,Male,Master's,Middle,7,4,Yes,5,Daily,3
+21,Female,Bachelor's,Middle,7,1,Yes,10,Daily,1
+19,Male,High School,Middle,3,4,No,8,Daily,5
+79,Male,Bachelor's,High,10,1,No,10,Weekly,5
+23,Male,High School,Middle,10,2,Yes,10,Daily,5
+71,Male,Bachelor's,Middle,9,3,No,7,Never,3
+59,Female,Bachelor's,Low,6,2,No,4,Rarely,4
+21,Female,High School,High,8,5,Yes,8,Rarely,5
+71,Female,Bachelor's,Low,10,5,Yes,10,Daily,4
+46,Male,High School,High,10,5,Yes,8,Weekly,5
+35,Male,High School,High,7,1,No,8,Rarely,3
+43,Male,High School,Low,8,4,Yes,6,Rarely,4
+61,Female,High School,Middle,10,2,Yes,3,Daily,4
+51,Male,PhD,High,7,2,No,9,Daily,3
+27,Female,Bachelor's,Middle,4,2,Yes,6,Daily,5
+79,Female,High School,High,6,2,Yes,10,Weekly,4
+53,Female,Bachelor's,High,8,5,Yes,4,Weekly,4
+31,Female,High School,Middle,3,2,Yes,10,Rarely,5
+48,Male,PhD,Low,8,4,No,10,Daily,5
+65,Female,Bachelor's,High,9,5,Yes,8,Daily,5
+32,Female,Master's,Middle,9,2,No,8,Daily,5
+25,Female,High School,Low,8,1,Yes,4,Daily,5
+31,Male,Bachelor's,Low,9,3,Yes,10,Daily,5
+40,Male,Bachelor's,Middle,10,3,No,10,Weekly,5
+77,Male,Master's,High,9,3,Yes,7,Weekly,5
+74,Female,High School,High,6,5,Yes,4,Weekly,5
+79,Female,High School,Middle,10,2,Yes,10,Daily,3
+57,Female,PhD,Low,5,5,No,10,Daily,5
+38,Male,Bachelor's,Low,2,4,Yes,5,Daily,4
+33,Female,High School,High,6,1,Yes,8,Rarely,5
+62,Male,High School,Low,7,1,Yes,8,Daily,3
+35,Male,PhD,Low,10,3,Yes,10,Rarely,4
+64,Male,High School,Low,10,3,No,8,Daily,5
+70,Female,Bachelor's,Middle,8,3,Yes,4,Rarely,4
+41,Male,Master's,High,10,2,Yes,10,Rarely,4
+43,Female,High School,Low,6,4,Yes,4,Daily,4
+42,Female,Bachelor's,Middle,9,4,Yes,10,Weekly,5
+77,Male,High School,Middle,9,4,No,10,Daily,5
+77,Female,High School,High,7,4,Yes,4,Rarely,3
+77,Male,Master's,Low,10,3,No,5,Daily,2
+62,Male,Master's,Middle,5,1,Yes,10,Daily,1
+58,Male,Bachelor's,Low,3,3,Yes,10,Weekly,5
+46,Male,Bachelor's,High,6,4,No,10,Rarely,3
+32,Female,High School,Middle,5,3,Yes,5,Daily,3
+62,Male,High School,Low,4,4,No,10,Weekly,5
+18,Female,High School,Middle,6,5,No,4,Daily,5
+42,Female,High School,Middle,6,1,Yes,8,Daily,5
+24,Female,High School,Low,2,5,Yes,8,Weekly,5
+26,Female,High School,High,2,2,No,10,Daily,4
+41,Female,High School,Low,3,3,Yes,9,Daily,4
+18,Male,High School,Middle,8,2,Yes,10,Rarely,5
+61,Male,Bachelor's,Middle,10,3,Yes,6,Daily,3
+25,Female,Master's,Middle,9,5,Yes,6,Weekly,5
+41,Female,High School,Low,4,4,No,4,Daily,5
+28,Male,Master's,High,8,4,Yes,8,Daily,5
+68,Female,Master's,Middle,10,3,Yes,10,Daily,5
+34,Male,High School,Middle,9,4,Yes,2,Weekly,5
+25,Female,Master's,Middle,10,5,Yes,10,Weekly,3
+52,Male,Bachelor's,Middle,9,4,Yes,5,Daily,5
+52,Male,Bachelor's,Low,7,5,No,8,Daily,5
+50,Male,High School,Low,3,2,Yes,4,Rarely,4
+76,Female,Bachelor's,High,10,5,No,7,Daily,4
+22,Female,High School,Low,8,1,No,10,Rarely,2
+59,Male,Bachelor's,Middle,4,1,Yes,4,Daily,1
+56,Female,Bachelor's,High,8,1,Yes,10,Weekly,2
+75,Male,Bachelor's,Low,5,3,Yes,4,Daily,3
+58,Female,Bachelor's,Middle,3,3,Yes,8,Rarely,4
+45,Male,Bachelor's,Middle,9,3,No,8,Weekly,4
+24,Male,High School,Middle,3,5,No,10,Daily,5
+26,Female,High School,Low,3,3,Yes,10,Daily,2
+25,Female,Master's,Low,6,2,Yes,10,Weekly,3
+29,Female,High School,Middle,6,1,No,10,Weekly,4
+51,Female,High School,High,9,5,No,3,Daily,3
+50,Female,High School,Middle,3,1,Yes,10,Daily,2
+65,Male,High School,Middle,10,3,Yes,3,Rarely,3
+72,Female,PhD,Low,6,5,Yes,4,Daily,5
+40,Female,Bachelor's,Middle,6,4,No,10,Weekly,5
+79,Female,Master's,Low,10,2,Yes,5,Daily,2
+41,Female,Bachelor's,High,6,3,Yes,9,Rarely,3
+54,Female,Bachelor's,High,10,3,Yes,10,Rarely,2
+52,Female,High School,Middle,7,2,Yes,6,Never,5
+61,Male,Bachelor's,High,10,2,Yes,8,Daily,5
+57,Female,High School,Low,6,4,No,2,Rarely,5
+39,Male,Master's,Middle,2,3,Yes,9,Daily,3
+44,Female,Master's,Low,10,3,Yes,10,Weekly,4
+52,Female,High School,High,6,1,Yes,4,Weekly,2
+18,Male,PhD,Low,9,5,Yes,10,Daily,3
+52,Female,Master's,Middle,8,5,Yes,4,Rarely,5
+54,Female,Bachelor's,High,3,1,Yes,10,Daily,1
+64,Female,High School,Low,6,5,Yes,5,Weekly,5
+31,Female,Bachelor's,Low,3,2,Yes,3,Weekly,5
+20,Male,Bachelor's,Middle,10,5,Yes,10,Weekly,5
+18,Female,High School,Middle,1,5,Yes,6,Daily,5
+22,Female,High School,Low,10,1,No,2,Daily,2
+43,Male,Master's,Low,10,4,No,10,Rarely,4
+72,Female,High School,Low,10,5,Yes,10,Daily,5
+31,Male,Bachelor's,High,9,5,Yes,10,Daily,5
+56,Male,Master's,Middle,3,4,No,5,Daily,4
+44,Female,Master's,Low,10,1,Yes,10,Daily,2
+26,Female,High School,Low,10,4,No,9,Rarely,5
+32,Male,Master's,Low,4,1,No,10,Daily,4
+32,Female,High School,Low,8,2,Yes,4,Weekly,3
+43,Male,High School,Middle,3,1,Yes,3,Daily,5
+59,Male,Bachelor's,Low,3,2,No,9,Daily,2
+77,Male,High School,Low,10,2,Yes,6,Daily,5
+30,Male,High School,Middle,6,1,Yes,7,Daily,3
+68,Male,Bachelor's,Low,8,3,Yes,6,Daily,3
+49,Female,High School,Middle,10,1,Yes,3,Weekly,5
+56,Female,High School,Middle,9,5,Yes,10,Daily,5
+66,Male,Bachelor's,Middle,10,5,No,5,Daily,5
+69,Female,Master's,Middle,9,3,No,10,Daily,5
+78,Female,Bachelor's,Middle,9,2,Yes,10,Daily,4
+49,Male,High School,High,4,3,Yes,3,Rarely,5
+21,Female,Bachelor's,Middle,7,5,Yes,8,Weekly,4
+47,Female,High School,Middle,7,3,Yes,10,Daily,4
+54,Male,High School,High,5,1,Yes,9,Daily,2
+40,Male,Master's,Middle,8,3,No,10,Never,2
+56,Female,High School,Low,10,2,No,10,Daily,5
+62,Female,High School,Low,10,1,Yes,4,Rarely,1
+32,Male,Bachelor's,Low,2,4,Yes,3,Daily,5
+60,Female,Bachelor's,High,6,5,Yes,8,Rarely,5
+46,Female,Bachelor's,Middle,5,5,Yes,10,Rarely,4
+53,Female,High School,High,10,3,Yes,7,Weekly,3
+30,Female,High School,Middle,2,1,Yes,6,Daily,3
+49,Female,High School,Middle,7,4,No,10,Daily,5
+24,Male,High School,Low,4,1,Yes,9,Daily,1
+76,Male,Bachelor's,Middle,5,5,Yes,4,Daily,3
+68,Female,Master's,Middle,10,1,No,4,Daily,2
+39,Female,Bachelor's,High,4,4,Yes,3,Daily,4
+45,Male,Master's,Low,9,3,Yes,7,Weekly,3
+19,Female,Bachelor's,Middle,1,2,Yes,8,Weekly,4
+59,Female,Bachelor's,Middle,8,1,Yes,10,Daily,4
+62,Male,High School,Middle,6,2,No,2,Daily,2
+79,Female,Bachelor's,Middle,10,5,Yes,3,Never,5
+74,Female,Bachelor's,Middle,9,3,No,7,Daily,4
+70,Female,High School,Low,5,3,Yes,10,Weekly,2
+23,Female,High School,Middle,7,1,Yes,6,Daily,4
+45,Male,PhD,Middle,9,3,No,8,Daily,4
+45,Female,High School,High,7,1,Yes,10,Daily,1
+61,Male,High School,High,6,1,Yes,7,Daily,3
+61,Male,Bachelor's,Low,7,2,Yes,10,Rarely,2
+37,Female,Master's,Low,5,3,Yes,6,Weekly,2
+47,Male,Bachelor's,High,8,1,Yes,10,Daily,4
+79,Male,Bachelor's,Middle,10,2,Yes,3,Never,5
+28,Female,High School,High,2,4,Yes,5,Daily,5
+75,Male,Bachelor's,Low,7,2,Yes,10,Never,2
+72,Male,High School,Middle,10,2,No,9,Never,4
+45,Female,Master's,High,6,1,Yes,10,Daily,4
+42,Female,Bachelor's,High,10,5,No,10,Daily,5
+56,Male,High School,Low,3,5,Yes,2,Daily,3
+79,Female,High School,Middle,10,5,Yes,10,Weekly,5
+50,Female,High School,Middle,6,2,No,4,Weekly,5
+18,Female,High School,Low,7,1,Yes,10,Never,4
+74,Female,High School,Middle,6,3,No,10,Weekly,5
+44,Female,Bachelor's,Middle,10,2,Yes,10,Daily,4
+79,Female,Bachelor's,High,6,2,Yes,3,Daily,5
+74,Female,High School,Middle,10,1,Yes,2,Weekly,5
+69,Female,High School,Low,10,4,Yes,10,Daily,3
+30,Male,High School,Low,2,2,No,10,Weekly,3
+58,Male,Master's,Middle,10,4,Yes,9,Daily,5
+20,Female,High School,Low,3,4,No,5,Daily,3
+56,Female,Bachelor's,Middle,10,5,No,9,Daily,3
+23,Female,Master's,Low,2,1,Yes,8,Weekly,4
+25,Male,Bachelor's,High,9,4,Yes,10,Daily,4
+44,Female,Master's,High,10,1,No,10,Weekly,2
+26,Male,High School,Middle,3,5,No,9,Daily,5
+79,Male,PhD,High,7,1,Yes,10,Weekly,2
+54,Female,High School,Middle,8,2,Yes,2,Weekly,2
+50,Female,High School,Middle,10,4,Yes,9,Daily,4
+68,Female,Bachelor's,Low,10,1,Yes,8,Weekly,2
+59,Female,Master's,Middle,10,3,Yes,7,Daily,5
+61,Male,Master's,Middle,10,1,No,10,Daily,1
+41,Female,High School,High,10,4,Yes,4,Daily,4
+32,Male,High School,Middle,3,5,Yes,5,Weekly,4
+76,Female,Master's,High,6,5,Yes,9,Rarely,5
+71,Female,High School,Middle,10,4,Yes,10,Weekly,4
+49,Female,Master's,Low,10,2,Yes,10,Weekly,3
+49,Female,Master's,High,8,2,Yes,7,Weekly,5
+41,Female,Bachelor's,Middle,10,5,Yes,6,Daily,3
+58,Female,High School,Low,10,5,Yes,8,Rarely,5
+69,Male,Bachelor's,Middle,10,4,Yes,8,Daily,3
+66,Male,High School,Low,7,2,No,10,Never,5
+79,Male,Master's,Middle,10,5,Yes,10,Weekly,3
+66,Male,Bachelor's,Middle,10,2,Yes,3,Weekly,3
+75,Female,Master's,Middle,6,5,Yes,10,Weekly,5
+69,Female,High School,High,6,1,No,10,Daily,1
+29,Male,PhD,Middle,9,3,Yes,10,Weekly,5
+79,Male,Bachelor's,Low,8,1,Yes,9,Daily,3
+56,Male,High School,Middle,5,5,No,10,Weekly,3
+19,Female,High School,High,10,3,Yes,8,Weekly,3
+20,Female,Bachelor's,Low,2,3,Yes,9,Rarely,5
+66,Male,Bachelor's,Low,6,5,Yes,10,Weekly,5
+54,Female,Master's,Low,10,5,Yes,10,Daily,5
+66,Female,High School,Low,8,2,Yes,9,Daily,5
+73,Male,High School,High,10,5,No,10,Weekly,4
+34,Female,Bachelor's,Middle,3,4,Yes,10,Daily,5
+76,Female,High School,Low,10,5,No,3,Daily,5
+66,Male,Bachelor's,Middle,5,4,Yes,9,Rarely,5
+19,Male,PhD,Low,4,5,No,10,Weekly,5
+19,Male,PhD,High,7,2,Yes,7,Weekly,3
+45,Male,Master's,High,6,4,Yes,10,Daily,5
+71,Female,Master's,Low,10,1,Yes,10,Weekly,4
+40,Female,High School,High,9,4,No,2,Daily,3
+54,Male,Bachelor's,Middle,3,2,Yes,4,Weekly,5
+49,Male,Bachelor's,Low,8,4,Yes,4,Daily,5
+50,Male,Master's,Low,10,5,Yes,10,Rarely,4
+18,Male,High School,Middle,2,5,Yes,9,Daily,4
+36,Female,Bachelor's,Middle,4,2,Yes,3,Daily,5
+79,Male,High School,High,10,3,Yes,5,Weekly,2
+19,Male,Bachelor's,Middle,5,5,Yes,10,Weekly,5
+70,Male,Master's,High,10,1,Yes,8,Daily,4
+61,Female,Master's,Middle,7,2,Yes,10,Weekly,5
+43,Male,High School,High,3,4,Yes,8,Daily,4
+49,Female,PhD,Middle,6,4,No,10,Rarely,5
+23,Male,Bachelor's,Low,7,1,Yes,10,Rarely,1
+49,Female,High School,Middle,7,5,Yes,10,Daily,4
+72,Female,High School,High,4,2,Yes,8,Rarely,5
+21,Male,High School,Low,5,1,No,6,Daily,2
+72,Male,High School,High,9,5,No,6,Daily,4
+28,Female,PhD,Low,10,2,No,10,Never,5
+73,Female,Bachelor's,Middle,10,4,Yes,10,Weekly,4
+76,Male,Master's,High,7,2,Yes,9,Daily,3
+34,Female,High School,Low,10,3,Yes,6,Daily,4
+55,Female,High School,Low,7,2,Yes,10,Daily,3
+41,Female,Bachelor's,Middle,10,3,Yes,10,Never,2
+22,Male,High School,High,10,2,No,4,Daily,5
+69,Female,Bachelor's,Low,10,3,No,5,Daily,4
+51,Male,Master's,High,7,4,No,10,Daily,4
+23,Female,Bachelor's,Low,7,5,Yes,9,Daily,3
+39,Male,Bachelor's,High,2,3,Yes,8,Daily,5
+28,Male,High School,High,8,3,Yes,4,Daily,4
+65,Male,High School,Middle,7,4,Yes,8,Daily,3
+33,Female,High School,Middle,3,3,No,6,Daily,3
+50,Male,Bachelor's,Middle,7,1,Yes,9,Rarely,5
+26,Male,High School,Middle,4,4,Yes,3,Daily,5
+77,Male,High School,Low,9,1,Yes,7,Weekly,3
+76,Female,Bachelor's,Low,10,4,Yes,10,Weekly,3
+23,Female,High School,Low,8,3,No,2,Rarely,5
+33,Male,High School,Middle,4,1,Yes,5,Rarely,1
+46,Female,High School,Low,10,3,No,10,Daily,5
+20,Female,Master's,Middle,3,4,Yes,4,Daily,5
+37,Female,Bachelor's,High,10,3,Yes,3,Daily,3
+77,Male,Bachelor's,Low,10,1,No,10,Daily,1
+76,Male,High School,Middle,7,1,Yes,10,Weekly,5
+53,Male,PhD,Middle,3,3,No,10,Weekly,5
+36,Male,Bachelor's,High,9,2,Yes,9,Rarely,4
+43,Male,High School,High,9,4,Yes,10,Daily,4
+20,Female,Master's,High,6,4,Yes,4,Rarely,3
+36,Male,High School,High,10,3,No,10,Daily,5
+37,Male,Bachelor's,Low,6,2,Yes,4,Daily,3
+49,Female,Bachelor's,High,9,1,No,6,Daily,5
+24,Male,High School,Middle,6,5,Yes,2,Weekly,5
+69,Female,PhD,Low,10,5,Yes,6,Daily,5
+58,Female,Bachelor's,High,8,3,Yes,10,Rarely,5
+50,Male,Bachelor's,Low,7,2,Yes,10,Rarely,4
+57,Female,High School,Middle,10,2,Yes,9,Rarely,5
+56,Female,High School,Low,4,4,No,7,Daily,5
+35,Female,High School,Middle,2,1,Yes,7,Rarely,1
+57,Female,Master's,Middle,10,2,Yes,8,Weekly,5
+18,Female,High School,Middle,3,5,Yes,10,Daily,5
+28,Female,Bachelor's,Middle,8,1,Yes,6,Daily,2
+45,Male,Bachelor's,Low,10,1,Yes,10,Daily,2
+74,Male,High School,High,10,3,Yes,8,Daily,5
+42,Male,Bachelor's,Low,8,2,Yes,3,Weekly,3
+67,Female,High School,Middle,10,3,Yes,10,Never,5
+40,Male,PhD,High,10,2,Yes,10,Daily,4
+48,Female,Bachelor's,High,9,4,Yes,10,Weekly,4
+47,Female,High School,Middle,10,3,Yes,10,Never,2
+59,Female,High School,Middle,7,3,Yes,8,Daily,5
+52,Female,Bachelor's,High,10,5,Yes,4,Rarely,4
+24,Female,Master's,High,3,3,No,9,Weekly,4
+77,Female,Bachelor's,Middle,10,2,No,10,Weekly,4
+33,Male,Bachelor's,Low,5,5,No,10,Daily,3
+43,Female,High School,Low,10,3,Yes,5,Weekly,4
+65,Male,High School,Low,4,3,No,4,Daily,4
+74,Male,High School,Middle,10,4,No,3,Weekly,4
+69,Female,Bachelor's,Low,9,3,No,8,Daily,5
+77,Female,Master's,Middle,10,1,Yes,10,Rarely,4
+66,Male,Bachelor's,Low,8,5,Yes,8,Daily,5
+19,Female,High School,Low,1,1,No,10,Daily,3
+18,Female,Bachelor's,High,1,5,Yes,7,Weekly,5
+65,Female,Master's,Middle,10,4,Yes,5,Daily,5
+79,Female,Bachelor's,Low,10,3,Yes,10,Weekly,3
+29,Female,Master's,High,7,3,Yes,10,Never,3
+22,Female,High School,Low,10,3,Yes,10,Weekly,5
+54,Female,High School,Middle,7,5,Yes,5,Daily,5
+49,Female,Master's,Middle,3,3,Yes,9,Weekly,4
+76,Female,Bachelor's,Low,9,1,Yes,10,Weekly,5
+72,Female,High School,High,9,3,Yes,10,Rarely,4
+26,Male,Bachelor's,Middle,4,4,Yes,10,Daily,4
+58,Male,Master's,Middle,10,1,Yes,10,Daily,1
+52,Male,Bachelor's,Low,3,3,Yes,7,Weekly,2
+36,Male,Bachelor's,Low,2,3,No,8,Daily,2
+65,Female,High School,High,9,2,Yes,10,Daily,2
+33,Female,Bachelor's,Low,10,5,Yes,6,Daily,5
+20,Female,Bachelor's,Middle,2,1,Yes,7,Rarely,3
+37,Male,Master's,Middle,7,2,No,10,Rarely,5
+41,Female,Master's,Middle,3,4,Yes,10,Weekly,5
+71,Female,Master's,Low,9,5,Yes,10,Daily,3
+73,Female,High School,Low,6,1,Yes,10,Daily,4
+50,Female,Bachelor's,Middle,10,3,Yes,8,Never,5
+41,Female,Master's,Low,8,1,No,9,Never,2
+69,Male,Bachelor's,Low,4,3,No,10,Rarely,3
+28,Female,Master's,Low,6,5,Yes,10,Weekly,5
+66,Male,Master's,Middle,10,3,Yes,7,Daily,5
+25,Male,Bachelor's,High,4,4,Yes,5,Rarely,3
+53,Female,Bachelor's,Low,8,3,Yes,9,Daily,2
+55,Male,High School,Low,7,4,Yes,6,Daily,3
+57,Female,High School,Low,8,5,Yes,3,Weekly,5
+37,Male,Bachelor's,Middle,10,5,Yes,4,Daily,5
+79,Female,Master's,Middle,4,1,Yes,10,Daily,5
+52,Male,High School,Middle,9,4,No,7,Daily,3
+65,Female,High School,Middle,10,4,Yes,9,Daily,3
+79,Female,Bachelor's,Middle,5,2,No,3,Rarely,4
+42,Male,High School,High,10,2,No,10,Daily,4
+52,Female,High School,High,7,2,Yes,7,Daily,5
+42,Female,High School,Low,10,3,No,3,Daily,5
+46,Male,High School,Low,6,2,Yes,3,Daily,3
+35,Male,High School,Low,7,4,Yes,8,Daily,5
+63,Female,High School,Low,9,3,Yes,10,Weekly,2
+35,Female,Bachelor's,High,3,5,No,3,Daily,3
+19,Female,Master's,Middle,2,1,Yes,9,Weekly,5
+71,Female,Bachelor's,Low,7,2,Yes,9,Never,5
+52,Male,Bachelor's,Middle,3,5,No,10,Weekly,4
+33,Male,High School,Middle,10,4,Yes,8,Daily,5
+78,Female,High School,Low,10,1,Yes,7,Daily,2
+58,Male,Bachelor's,Low,9,5,No,10,Rarely,5
+53,Male,High School,Middle,5,1,No,4,Weekly,1
+50,Female,Bachelor's,Middle,5,2,No,10,Rarely,3
+21,Female,Bachelor's,Low,2,4,No,8,Rarely,5
+50,Female,Bachelor's,Low,5,1,Yes,6,Rarely,2
+31,Female,High School,Middle,4,5,No,3,Rarely,4
+38,Female,High School,Low,5,2,Yes,2,Weekly,2
+65,Female,Bachelor's,Middle,7,2,Yes,3,Daily,5
+37,Female,High School,Middle,4,5,Yes,10,Never,5
+73,Male,Bachelor's,Low,10,5,Yes,10,Weekly,5
+25,Male,Bachelor's,High,9,1,No,5,Daily,3
+24,Female,PhD,Middle,9,3,No,7,Weekly,4
+20,Female,High School,Low,2,2,Yes,3,Weekly,2
+34,Male,Master's,Middle,8,1,Yes,10,Rarely,2
+50,Male,Bachelor's,Middle,4,5,Yes,10,Weekly,5
+65,Male,High School,Middle,4,1,No,10,Daily,5
+29,Male,High School,Low,4,5,No,2,Never,4
+76,Female,Bachelor's,High,7,4,Yes,6,Rarely,5
+68,Male,High School,Middle,9,5,Yes,8,Weekly,4
+39,Female,High School,Low,10,5,Yes,10,Daily,3
+72,Female,High School,Low,8,5,Yes,10,Daily,3
+39,Female,Master's,Low,5,3,No,9,Weekly,2
+63,Female,Master's,High,10,5,Yes,9,Daily,4
+47,Male,Bachelor's,Low,6,2,Yes,10,Daily,3
+55,Female,High School,Low,10,2,Yes,10,Weekly,5
+55,Male,High School,High,4,1,Yes,3,Daily,5
+62,Male,Bachelor's,Low,6,3,No,6,Daily,5
+68,Female,Bachelor's,Low,9,1,Yes,7,Daily,4
+71,Male,High School,Low,10,2,Yes,2,Daily,5
+25,Male,Bachelor's,Low,9,2,Yes,10,Weekly,2
+44,Female,PhD,Low,10,4,Yes,10,Daily,5
+44,Male,Bachelor's,Middle,9,5,Yes,8,Daily,4
+51,Female,Bachelor's,Low,4,2,No,7,Weekly,4
+38,Male,PhD,Low,9,1,Yes,10,Never,2
+47,Female,High School,Middle,9,1,Yes,4,Weekly,4
+50,Female,Bachelor's,Middle,10,5,Yes,5,Daily,5
+45,Female,PhD,Middle,5,5,Yes,5,Daily,4
+64,Female,High School,Middle,10,4,Yes,6,Rarely,5
+50,Male,Bachelor's,Low,10,3,Yes,5,Daily,3
+22,Female,Bachelor's,Middle,10,1,No,5,Weekly,5
+77,Male,Bachelor's,Middle,6,5,No,8,Daily,4
+78,Female,Bachelor's,Low,10,1,Yes,10,Daily,5
+65,Male,Master's,High,9,5,Yes,5,Rarely,5
+36,Female,Master's,Low,3,2,Yes,7,Weekly,2
+21,Male,High School,Middle,3,1,Yes,10,Weekly,2
+52,Female,Master's,Low,7,2,No,10,Daily,4
+66,Female,High School,Middle,8,1,Yes,2,Daily,1
+34,Female,High School,Middle,8,3,Yes,2,Weekly,3
+61,Male,Bachelor's,High,5,4,No,10,Weekly,5
+45,Female,Bachelor's,Low,9,2,No,9,Daily,4
+47,Male,Bachelor's,Middle,7,5,Yes,9,Daily,5
+46,Male,Master's,Middle,8,3,Yes,4,Daily,5
+63,Male,Bachelor's,Middle,10,1,Yes,3,Never,5
+70,Male,Bachelor's,Middle,10,2,Yes,6,Weekly,2
+23,Female,High School,Middle,5,1,No,6,Rarely,5
+52,Female,Master's,Middle,9,1,No,8,Daily,5
+77,Male,Master's,Low,9,1,No,7,Never,5
+58,Male,Master's,Middle,10,4,Yes,10,Daily,5
+54,Male,High School,Low,4,4,No,8,Weekly,5
+41,Male,High School,High,10,5,Yes,10,Rarely,5
+46,Female,High School,Middle,10,2,Yes,8,Daily,3
+66,Male,High School,High,10,3,Yes,10,Daily,4
+63,Male,High School,Low,8,3,Yes,2,Daily,2
+70,Male,Master's,High,10,3,No,10,Daily,3
+48,Female,Bachelor's,High,6,1,Yes,3,Weekly,2
+52,Female,High School,Middle,8,4,Yes,8,Weekly,4
+77,Female,High School,Middle,10,2,Yes,10,Weekly,5
+50,Female,High School,Low,5,1,Yes,9,Weekly,5
+69,Female,High School,High,10,4,Yes,10,Weekly,5
+78,Male,High School,Middle,4,4,Yes,10,Daily,5
+38,Female,High School,Low,5,2,No,4,Daily,5
+49,Female,Master's,Low,6,2,Yes,7,Never,5
+40,Female,PhD,High,3,2,Yes,7,Daily,4
+50,Female,High School,High,10,1,Yes,10,Weekly,3
+20,Female,Bachelor's,High,4,5,No,9,Daily,5
+35,Female,Master's,Middle,6,2,Yes,6,Weekly,5
+42,Female,High School,Low,8,5,Yes,10,Weekly,5
+59,Female,High School,Low,10,1,Yes,6,Daily,4
+48,Female,Master's,Low,8,5,Yes,10,Daily,4
+71,Female,High School,Low,6,3,Yes,9,Weekly,3
+75,Male,Bachelor's,Low,9,5,No,3,Daily,5
+20,Female,Bachelor's,Low,2,2,Yes,4,Daily,5
+57,Male,High School,Middle,6,1,Yes,8,Weekly,1
+63,Female,High School,High,9,2,No,10,Daily,3
+41,Female,Master's,Middle,9,3,Yes,5,Rarely,2
+67,Female,High School,High,10,2,Yes,8,Weekly,2
+49,Male,High School,Middle,5,2,Yes,10,Daily,5
+64,Male,Bachelor's,Low,10,2,Yes,10,Weekly,4
+39,Male,Bachelor's,Low,8,4,Yes,4,Weekly,4
+40,Female,High School,Low,3,3,Yes,8,Daily,5
+19,Male,Master's,Low,2,2,No,7,Daily,5
+44,Male,High School,Middle,3,2,No,10,Daily,4
+59,Male,Master's,Low,10,2,Yes,5,Daily,3
+19,Female,Master's,Low,9,1,Yes,10,Daily,4
+43,Female,Bachelor's,Low,9,4,Yes,7,Daily,5
+34,Male,Bachelor's,High,10,1,No,3,Daily,5
+57,Male,PhD,Middle,5,4,Yes,8,Weekly,3
+50,Female,High School,Middle,7,2,Yes,4,Weekly,5
+26,Female,Bachelor's,Low,5,3,No,9,Weekly,3
+60,Female,High School,Middle,10,5,No,7,Weekly,5
+71,Male,High School,Middle,10,5,No,9,Rarely,5
+65,Female,High School,Middle,5,2,Yes,6,Weekly,3
+56,Female,Master's,High,10,1,No,5,Weekly,5
+46,Female,PhD,Low,10,3,No,10,Daily,2
+59,Female,High School,High,10,4,Yes,10,Rarely,5
+72,Male,High School,High,10,2,Yes,9,Daily,3
+43,Male,Bachelor's,Low,10,3,Yes,8,Daily,4
+52,Female,Bachelor's,Middle,10,3,No,10,Weekly,2
+67,Female,High School,High,10,4,Yes,8,Daily,3
+42,Female,Bachelor's,Low,10,3,Yes,10,Daily,5
+41,Female,Bachelor's,Middle,10,1,Yes,9,Weekly,1
+30,Female,PhD,High,4,1,No,6,Weekly,2
+77,Female,High School,Middle,7,1,Yes,7,Weekly,5
+75,Male,Bachelor's,Low,5,3,Yes,10,Rarely,2
+24,Female,Bachelor's,Middle,10,1,Yes,10,Daily,3
+74,Male,Master's,Low,6,4,No,10,Daily,4
+53,Male,Bachelor's,Middle,7,3,Yes,4,Weekly,4
+62,Female,Bachelor's,Low,8,5,Yes,5,Daily,5
+37,Male,High School,Middle,7,3,No,5,Weekly,5
+18,Male,Master's,Middle,7,4,Yes,10,Daily,5
+25,Male,Bachelor's,Middle,8,5,No,8,Daily,5
+63,Female,High School,Middle,4,3,Yes,2,Weekly,3
+33,Male,Bachelor's,Middle,3,1,Yes,10,Weekly,2
+31,Male,High School,Middle,10,2,Yes,6,Weekly,5
+29,Male,High School,Low,10,2,Yes,8,Daily,5
+68,Male,Master's,Middle,5,1,Yes,10,Daily,5
+40,Male,Bachelor's,Low,8,2,Yes,10,Daily,3
+32,Male,Bachelor's,High,2,2,No,3,Daily,5
+45,Female,High School,Low,5,1,Yes,2,Daily,2
+51,Male,Master's,Middle,4,1,Yes,6,Daily,4
+19,Male,High School,Middle,3,3,Yes,7,Weekly,5
+49,Male,High School,Middle,7,3,No,3,Daily,5
+40,Male,PhD,Low,10,1,Yes,10,Weekly,5
+39,Female,Master's,Middle,7,4,Yes,10,Rarely,5
+68,Female,Bachelor's,Middle,10,2,Yes,3,Daily,5
+42,Male,High School,Middle,10,3,Yes,2,Daily,5
+75,Male,Master's,Low,7,2,Yes,8,Daily,3
+79,Male,Bachelor's,Middle,10,5,No,6,Weekly,5
+78,Female,Master's,Middle,9,1,Yes,4,Daily,5
+39,Female,Master's,Middle,3,4,No,7,Daily,4
+75,Female,High School,Middle,10,5,Yes,4,Weekly,4
+75,Male,High School,Middle,10,5,Yes,3,Daily,3
+39,Female,Bachelor's,Low,8,5,No,10,Weekly,5
+66,Male,High School,Low,10,1,Yes,10,Weekly,2
+69,Male,High School,Low,10,3,No,2,Weekly,2
+59,Male,Master's,Low,3,1,Yes,10,Daily,5
+23,Male,Bachelor's,Middle,2,3,No,6,Rarely,5
+32,Female,Master's,Middle,9,5,Yes,8,Weekly,3
+71,Female,Bachelor's,Low,7,5,Yes,10,Daily,5
+60,Male,Bachelor's,High,8,4,Yes,7,Daily,5
+77,Female,High School,Low,10,3,Yes,2,Daily,4
+54,Female,High School,Middle,7,5,Yes,7,Rarely,5
+50,Female,High School,Middle,10,2,Yes,10,Rarely,4
+25,Female,High School,Low,5,4,Yes,3,Weekly,4
+70,Female,Master's,Low,9,1,Yes,10,Rarely,3
+77,Female,High School,Middle,8,4,No,7,Daily,4
+61,Female,Bachelor's,Low,10,2,Yes,7,Daily,3
+61,Male,High School,High,10,3,Yes,5,Rarely,5
+22,Male,High School,Middle,8,1,Yes,5,Weekly,2
+56,Female,Bachelor's,High,6,1,Yes,8,Daily,2
+21,Male,High School,Low,6,3,Yes,5,Weekly,4
+23,Female,High School,Middle,4,4,Yes,6,Never,4
+62,Male,High School,Middle,7,5,No,7,Weekly,5
+49,Male,High School,Middle,6,4,No,6,Rarely,5
+69,Male,Master's,Low,6,2,Yes,10,Weekly,2
+47,Male,High School,Middle,10,5,Yes,10,Daily,5
+64,Female,High School,Middle,8,4,Yes,10,Rarely,4
+52,Female,Bachelor's,Middle,7,3,Yes,9,Daily,5
+72,Female,High School,Low,10,2,Yes,8,Rarely,4
+57,Female,Master's,High,6,2,Yes,7,Daily,5
+69,Male,Bachelor's,Low,7,2,Yes,3,Weekly,2
+33,Female,Bachelor's,High,10,5,Yes,10,Daily,3
+30,Female,Bachelor's,High,7,1,Yes,6,Daily,5
+67,Female,High School,High,7,5,No,2,Daily,5
+77,Male,Bachelor's,Middle,5,4,Yes,7,Never,5
+59,Female,High School,Middle,8,1,No,9,Never,5
+47,Female,Master's,High,4,4,No,7,Daily,5
+36,Female,High School,Low,6,1,Yes,9,Never,5
+34,Female,Bachelor's,Middle,7,5,Yes,10,Rarely,5
+73,Male,Bachelor's,Middle,7,2,Yes,5,Weekly,5
+36,Female,High School,Middle,4,3,No,10,Daily,5
+45,Female,High School,Low,9,2,No,4,Rarely,5
+75,Male,Bachelor's,Middle,5,5,Yes,3,Weekly,4
+72,Female,Master's,High,9,1,Yes,5,Rarely,2
+43,Female,High School,Low,6,2,No,7,Rarely,5
+54,Male,Master's,High,8,5,Yes,10,Rarely,5
+43,Male,PhD,Low,6,4,No,5,Weekly,5
+70,Male,Master's,Low,7,3,No,9,Daily,2
+79,Male,High School,Low,7,2,Yes,2,Daily,3
+40,Male,Bachelor's,Low,10,1,Yes,10,Daily,5
+26,Female,High School,High,8,4,Yes,2,Daily,3
+29,Male,PhD,Low,4,5,Yes,8,Weekly,4
+70,Male,Bachelor's,Middle,6,3,Yes,10,Weekly,4
+18,Female,High School,Low,6,1,No,10,Rarely,4
+75,Female,Bachelor's,Middle,9,5,No,10,Daily,5
+75,Male,High School,Middle,7,5,No,9,Weekly,5
+18,Male,PhD,Low,9,2,Yes,6,Daily,3
+64,Male,PhD,Low,7,2,No,6,Daily,5
+51,Female,Bachelor's,High,10,1,No,3,Daily,1
+49,Male,High School,Low,6,5,Yes,4,Weekly,5
+79,Female,Bachelor's,Middle,5,2,Yes,10,Daily,3
+71,Female,High School,Low,5,3,Yes,2,Weekly,5
+65,Male,High School,Middle,8,3,No,9,Daily,5
+42,Female,Master's,Low,6,5,Yes,4,Rarely,5
+57,Female,High School,Middle,9,2,No,6,Rarely,5
+62,Male,High School,Low,8,1,Yes,10,Never,1
+70,Female,PhD,High,9,1,No,10,Rarely,2
+18,Female,High School,Low,10,1,Yes,5,Rarely,1
+33,Female,High School,Middle,5,3,Yes,10,Rarely,5
+78,Female,Master's,Middle,5,2,Yes,10,Weekly,4
+56,Female,High School,Low,10,2,Yes,10,Daily,4
+22,Female,Master's,Middle,10,3,No,5,Daily,2
+39,Female,PhD,Low,10,1,Yes,10,Daily,5
+46,Female,Master's,High,9,1,Yes,10,Weekly,5
+72,Female,Bachelor's,High,7,5,Yes,10,Weekly,5
+20,Female,High School,High,4,4,Yes,7,Rarely,3
+29,Male,High School,Low,10,2,Yes,5,Never,2
+43,Male,Master's,Middle,5,2,Yes,10,Daily,2
+33,Male,Master's,Middle,10,2,No,10,Weekly,5
+68,Male,Bachelor's,High,8,4,Yes,9,Never,5
+54,Male,High School,Middle,5,5,No,8,Daily,5
+39,Female,High School,High,6,4,No,10,Weekly,5
+74,Male,High School,Middle,5,1,Yes,10,Daily,2
+46,Female,Bachelor's,Middle,6,1,Yes,10,Weekly,4
+31,Male,Bachelor's,Low,10,2,Yes,7,Daily,2
+45,Female,Master's,Middle,4,3,No,9,Rarely,5
+22,Female,Bachelor's,Middle,3,2,No,3,Weekly,2
+64,Male,High School,Middle,10,3,Yes,7,Daily,4
+66,Female,Bachelor's,Middle,4,4,No,4,Daily,3
+47,Male,Bachelor's,Middle,9,1,Yes,8,Daily,5
+63,Female,Bachelor's,Low,8,3,No,10,Never,5
+79,Male,Bachelor's,Middle,10,4,No,10,Weekly,3
+69,Female,Master's,Middle,4,1,Yes,10,Daily,2
+22,Male,Master's,Middle,8,3,Yes,10,Daily,4
+29,Female,High School,Low,6,2,Yes,9,Weekly,3
+33,Female,High School,Low,5,2,Yes,4,Weekly,3
+43,Male,Bachelor's,Low,9,2,No,10,Weekly,3
+43,Male,High School,Middle,10,4,Yes,7,Daily,5
+65,Male,High School,Low,5,2,Yes,7,Weekly,4
+38,Male,High School,Middle,2,5,Yes,7,Weekly,5
+56,Female,Bachelor's,High,3,1,No,5,Never,3
+53,Male,High School,Low,3,4,Yes,10,Rarely,4
+50,Male,Bachelor's,Middle,7,2,Yes,3,Weekly,5
+79,Male,PhD,Middle,10,1,Yes,7,Weekly,5
+47,Female,High School,High,9,3,No,10,Daily,4
+54,Male,High School,Middle,4,2,No,7,Rarely,5
+40,Male,High School,Middle,10,1,Yes,10,Daily,1
+75,Male,Master's,High,10,5,Yes,10,Daily,5
+27,Male,High School,Middle,5,3,Yes,3,Daily,5
+71,Female,High School,High,6,5,Yes,8,Rarely,5
+22,Male,High School,Low,10,1,Yes,8,Daily,5
+53,Male,Master's,High,10,5,No,10,Daily,3
+51,Female,Bachelor's,Middle,4,1,Yes,6,Daily,4
+69,Female,Master's,Middle,6,1,No,7,Daily,3
+48,Male,Master's,Low,5,5,Yes,4,Daily,5
+27,Female,High School,Middle,10,1,No,3,Rarely,3
+75,Female,Master's,Low,4,2,No,10,Rarely,4
+36,Male,High School,High,7,1,Yes,10,Daily,4
+75,Female,Master's,High,5,4,Yes,10,Rarely,5
+49,Female,Bachelor's,Low,3,1,Yes,10,Weekly,1
+18,Male,Master's,High,2,4,Yes,10,Daily,5
+73,Male,High School,Middle,9,1,Yes,8,Weekly,4
+22,Male,High School,Middle,5,1,Yes,10,Never,3
+62,Female,High School,Low,9,5,No,10,Daily,5
+21,Female,High School,Low,10,2,Yes,3,Daily,5
+33,Female,High School,Low,10,2,No,7,Rarely,5
+41,Male,High School,Low,10,3,Yes,4,Weekly,3
+33,Female,High School,High,9,5,No,10,Daily,5
+72,Female,Bachelor's,Low,4,5,Yes,8,Weekly,5
+19,Male,Master's,High,8,2,No,6,Weekly,3
+66,Male,Bachelor's,Low,10,5,Yes,10,Rarely,5
+45,Female,High School,Middle,8,2,Yes,10,Weekly,5
+49,Male,Bachelor's,Middle,10,5,Yes,6,Daily,5
+44,Female,High School,High,7,1,Yes,10,Weekly,5
+37,Male,PhD,Low,7,2,Yes,9,Weekly,3
+41,Male,High School,Middle,8,2,Yes,10,Daily,5
+29,Male,Bachelor's,Middle,10,4,Yes,4,Weekly,5
+67,Male,PhD,Low,7,5,No,5,Rarely,3
+52,Female,Master's,Low,4,5,Yes,10,Daily,5
+77,Male,Bachelor's,Middle,10,2,Yes,4,Weekly,4
+50,Female,Master's,Middle,4,1,No,5,Daily,4
+50,Female,PhD,Middle,10,1,Yes,7,Daily,3
+78,Female,Bachelor's,Low,10,1,Yes,10,Daily,3
+68,Male,Bachelor's,Middle,5,5,Yes,10,Daily,5
+60,Female,Bachelor's,Middle,10,4,No,4,Rarely,4
+54,Female,Bachelor's,Middle,10,2,No,10,Daily,5
+29,Male,Bachelor's,High,10,3,No,6,Weekly,5
+20,Male,Bachelor's,Middle,10,4,Yes,4,Daily,5
+18,Female,High School,Middle,10,3,No,10,Never,2
+50,Female,High School,Low,10,4,Yes,10,Weekly,5
+57,Male,High School,Middle,4,1,Yes,8,Weekly,5
+27,Female,High School,Low,5,5,Yes,7,Daily,5
+60,Female,High School,Middle,10,3,Yes,10,Daily,5
+61,Female,Bachelor's,Middle,5,4,Yes,7,Daily,4
+46,Female,High School,High,3,5,Yes,10,Rarely,5
+30,Female,Master's,Low,4,3,Yes,4,Daily,3
+29,Male,High School,Middle,5,2,Yes,3,Weekly,5
+48,Male,High School,Middle,10,4,No,9,Weekly,5
+63,Male,Bachelor's,Low,9,2,Yes,3,Daily,4
+19,Female,Bachelor's,Low,2,1,No,5,Weekly,5
+78,Female,High School,Low,10,2,Yes,3,Weekly,5
+68,Male,Master's,Low,5,2,No,8,Weekly,2
+67,Female,Master's,Low,8,4,Yes,7,Daily,5
+52,Female,High School,Low,6,1,Yes,8,Daily,3
+40,Female,High School,Low,9,2,Yes,6,Daily,5
+34,Male,PhD,Middle,9,5,Yes,10,Rarely,3
+43,Female,Bachelor's,Middle,7,3,No,6,Weekly,5
+25,Male,Bachelor's,High,10,2,Yes,8,Daily,5
+46,Male,Master's,Middle,7,1,Yes,7,Rarely,3
+43,Male,High School,Middle,4,2,No,3,Daily,5
+27,Male,Bachelor's,High,9,3,Yes,3,Rarely,4
+43,Male,High School,Middle,4,1,Yes,2,Never,4
+79,Female,Master's,Middle,10,4,Yes,10,Rarely,5
+51,Male,Bachelor's,Middle,8,1,Yes,6,Rarely,5
+68,Female,Bachelor's,Low,10,4,Yes,7,Daily,5
+58,Male,High School,Low,8,1,Yes,10,Daily,1
+24,Female,High School,Middle,5,3,No,9,Weekly,5
+21,Female,Bachelor's,Middle,5,3,Yes,9,Daily,2
+75,Male,Bachelor's,Low,9,1,Yes,10,Daily,2
+70,Male,Bachelor's,High,7,2,Yes,10,Weekly,5
+67,Male,High School,Middle,10,3,No,7,Daily,5
+62,Female,Master's,Middle,10,4,No,10,Rarely,3
+28,Female,High School,High,2,4,Yes,3,Rarely,3
+46,Male,PhD,Middle,6,5,No,9,Rarely,4
+73,Female,High School,High,7,4,Yes,2,Weekly,3
+53,Male,Bachelor's,Middle,4,5,Yes,3,Rarely,5
+42,Male,High School,Low,8,1,Yes,10,Rarely,5
+38,Female,Master's,Middle,4,1,Yes,6,Weekly,1
+78,Male,Bachelor's,Middle,10,1,Yes,5,Daily,1
+74,Female,High School,Middle,8,2,No,10,Rarely,3
+53,Male,High School,High,6,2,Yes,6,Rarely,4
+27,Female,High School,Middle,6,5,No,2,Daily,3
+54,Male,High School,Middle,10,4,Yes,10,Daily,5
+26,Male,Master's,High,4,4,Yes,9,Weekly,5
+41,Female,Bachelor's,Middle,9,1,Yes,9,Daily,1
+52,Male,Master's,Middle,8,3,Yes,10,Rarely,4
+66,Female,Bachelor's,High,4,2,Yes,10,Never,5
+52,Female,Bachelor's,Low,9,2,Yes,5,Daily,5
+65,Female,High School,Middle,10,1,Yes,5,Weekly,3
+53,Female,High School,High,3,2,Yes,10,Daily,4
+35,Female,Master's,Middle,10,1,No,10,Weekly,1
+66,Female,PhD,Middle,9,5,Yes,10,Daily,5
+56,Female,High School,Middle,4,4,Yes,10,Weekly,4
+49,Female,High School,Middle,7,3,Yes,10,Daily,5
+41,Male,Bachelor's,High,6,4,No,10,Daily,5
+40,Male,PhD,Low,9,4,No,6,Daily,5
+79,Female,High School,Low,10,5,Yes,2,Daily,5
+49,Male,Bachelor's,Low,3,2,Yes,10,Weekly,5
+54,Female,Master's,Middle,7,3,Yes,10,Daily,3
+29,Male,High School,Middle,4,2,No,10,Weekly,2
+66,Male,High School,High,4,4,Yes,3,Rarely,4
+72,Female,Bachelor's,Middle,6,1,Yes,3,Rarely,5
+30,Female,Master's,Middle,7,4,Yes,10,Rarely,5
+40,Male,High School,Low,9,2,Yes,8,Rarely,5
+42,Female,Bachelor's,Middle,10,4,No,9,Daily,5
+52,Female,Bachelor's,Middle,6,1,Yes,6,Daily,4
+58,Male,Bachelor's,Low,5,5,Yes,10,Weekly,3
+47,Female,Bachelor's,Low,7,2,Yes,10,Rarely,5
+34,Male,Bachelor's,Low,10,4,No,8,Never,5
+66,Male,Bachelor's,Low,9,2,No,4,Daily,4
+79,Female,Bachelor's,Middle,10,5,Yes,3,Daily,5
+37,Male,Bachelor's,Low,7,4,Yes,3,Daily,5
+65,Female,Bachelor's,Middle,5,4,No,10,Weekly,5
+42,Female,Master's,High,7,2,Yes,7,Weekly,2
+39,Male,High School,Middle,10,2,Yes,6,Daily,3
+30,Female,Master's,High,9,1,Yes,6,Daily,4
+76,Female,Master's,Middle,10,5,No,7,Weekly,5
+36,Male,High School,Middle,2,1,Yes,9,Weekly,4
+66,Female,Bachelor's,High,7,4,No,6,Daily,5
+53,Female,Bachelor's,Low,9,2,Yes,10,Rarely,2
+29,Female,High School,High,8,4,Yes,10,Weekly,5
+78,Female,High School,Low,9,4,Yes,7,Rarely,5
+58,Male,High School,Middle,10,3,Yes,3,Rarely,4
+36,Female,High School,Low,7,3,Yes,10,Daily,2
+29,Female,Master's,Middle,10,4,Yes,10,Daily,5
+26,Female,High School,Middle,4,2,Yes,8,Weekly,3
+24,Female,Master's,Middle,5,4,No,10,Daily,5
+45,Female,Bachelor's,Low,5,3,No,8,Rarely,5
+31,Female,Master's,Low,2,2,Yes,6,Weekly,2
+48,Female,Bachelor's,Low,10,4,Yes,9,Rarely,3
+69,Female,High School,Low,8,5,Yes,6,Daily,3
+36,Female,Bachelor's,High,2,5,Yes,3,Daily,5
+75,Female,High School,Low,4,4,No,4,Weekly,5
+64,Female,Bachelor's,High,5,2,Yes,7,Daily,4
+33,Male,Master's,High,5,4,Yes,10,Weekly,4
+70,Male,High School,Low,9,4,No,4,Rarely,5
+22,Male,High School,Middle,9,3,Yes,7,Daily,4
+52,Female,Bachelor's,Low,5,5,Yes,7,Weekly,5
+29,Female,Master's,Low,2,3,Yes,4,Daily,5
+42,Female,Bachelor's,Low,5,3,Yes,10,Daily,2
+69,Male,High School,Middle,6,4,Yes,7,Never,5
+76,Female,Bachelor's,Middle,8,3,No,10,Never,5
+38,Male,High School,Middle,5,5,No,2,Weekly,5
+53,Male,Bachelor's,Middle,6,3,Yes,4,Rarely,2
+70,Female,PhD,Low,10,5,No,7,Weekly,5
+40,Female,Bachelor's,Middle,9,3,Yes,4,Daily,4
+33,Male,Master's,Middle,5,5,No,10,Daily,4
+74,Male,High School,Low,6,3,Yes,10,Rarely,4
+56,Male,Bachelor's,Low,8,3,No,10,Daily,3
+62,Male,Master's,Middle,6,2,No,10,Weekly,5
+70,Female,High School,Low,9,5,Yes,9,Weekly,5
+59,Male,Master's,Middle,10,5,No,7,Weekly,5
+75,Female,High School,Low,9,5,No,6,Daily,3
+56,Female,Bachelor's,Low,6,1,No,6,Daily,5
+31,Male,Master's,Low,6,3,Yes,10,Daily,3
+48,Male,Bachelor's,Low,8,5,No,4,Weekly,5
+75,Male,High School,Middle,6,1,No,10,Weekly,4
+22,Male,Bachelor's,Middle,9,2,Yes,10,Weekly,5
+52,Male,Bachelor's,Middle,6,5,No,4,Weekly,5
+40,Female,Master's,High,10,5,Yes,4,Daily,5
+46,Male,Bachelor's,Middle,10,1,Yes,10,Rarely,4
+60,Female,High School,Middle,10,3,Yes,4,Weekly,5
+28,Male,Bachelor's,Low,4,2,Yes,10,Daily,5
+35,Female,Bachelor's,Middle,10,5,Yes,5,Daily,4
+64,Female,Bachelor's,Middle,10,3,Yes,10,Rarely,3
+29,Female,Bachelor's,Low,10,2,No,9,Rarely,2
+26,Female,Master's,Middle,5,4,Yes,10,Daily,5
+27,Female,Bachelor's,Low,9,4,Yes,3,Weekly,5
+75,Female,Bachelor's,Middle,6,2,Yes,10,Daily,5
+61,Female,High School,High,10,1,Yes,6,Daily,5
+34,Female,High School,High,4,2,No,10,Weekly,2
+78,Male,High School,Middle,10,2,Yes,4,Weekly,5
+55,Male,High School,Middle,10,1,No,10,Weekly,3
+24,Female,Bachelor's,Middle,10,1,Yes,7,Daily,1
+63,Female,Bachelor's,Middle,9,3,Yes,10,Daily,4
+30,Female,Bachelor's,Low,3,3,Yes,10,Daily,2
+57,Female,Master's,Middle,5,1,Yes,9,Daily,5
+59,Female,PhD,Middle,8,4,Yes,10,Daily,3
+26,Male,Master's,High,5,4,Yes,10,Daily,4
+67,Male,Bachelor's,Middle,9,2,Yes,9,Daily,5
+44,Male,Bachelor's,Middle,3,5,No,10,Daily,5
+75,Male,Bachelor's,Middle,10,2,Yes,9,Weekly,5
+19,Female,High School,Middle,1,2,Yes,10,Daily,5
+22,Male,High School,Middle,4,5,Yes,10,Daily,5
+46,Female,Master's,Low,10,1,Yes,10,Weekly,2
+54,Male,Master's,Middle,10,4,No,9,Daily,5
+55,Female,High School,High,6,2,Yes,8,Weekly,2
+36,Female,Bachelor's,Middle,7,5,Yes,4,Daily,5
+25,Male,Master's,Low,9,3,No,10,Daily,5
+65,Female,High School,Middle,10,2,Yes,2,Daily,4
+62,Male,High School,High,10,4,Yes,2,Daily,5
+18,Male,Master's,Low,4,1,Yes,6,Weekly,4
+39,Male,Bachelor's,Middle,10,2,Yes,8,Rarely,5
+69,Male,High School,High,10,2,No,6,Daily,5
+34,Male,Bachelor's,Middle,7,5,No,4,Daily,5
+24,Female,Master's,High,4,3,No,10,Weekly,5
+42,Female,Bachelor's,Middle,7,3,Yes,10,Daily,5
+62,Female,High School,Middle,8,1,Yes,5,Rarely,3
+21,Male,High School,Middle,6,4,No,5,Daily,3
+53,Female,Bachelor's,Low,10,1,Yes,7,Never,5
+23,Male,Bachelor's,Low,10,2,Yes,10,Daily,3
+77,Male,Master's,Middle,10,2,Yes,10,Daily,5
+48,Female,High School,Low,8,3,Yes,5,Rarely,3
+36,Male,Master's,Middle,7,4,Yes,8,Weekly,5
+78,Female,High School,High,10,5,No,5,Weekly,5
+61,Female,High School,High,7,4,No,7,Weekly,5
+71,Male,High School,Middle,9,2,Yes,4,Weekly,2
+56,Male,High School,High,6,5,Yes,9,Daily,5
+44,Male,Bachelor's,Middle,3,4,Yes,8,Weekly,5
+27,Female,Bachelor's,Middle,8,4,No,10,Daily,3
+43,Male,High School,Low,10,5,Yes,6,Rarely,5
+36,Male,Bachelor's,Middle,7,2,No,4,Never,2
+56,Male,High School,Middle,10,4,Yes,10,Daily,5
+79,Female,Master's,Middle,10,5,Yes,10,Daily,5
+20,Male,Master's,Middle,8,2,Yes,10,Daily,4
+62,Male,High School,Low,5,5,No,3,Daily,5
+30,Female,Bachelor's,Middle,10,5,Yes,3,Rarely,4
+67,Female,High School,High,10,4,Yes,8,Daily,5
+45,Male,High School,Middle,10,2,Yes,6,Daily,5
+79,Male,High School,High,9,4,No,2,Rarely,5
+75,Male,Master's,High,6,1,No,7,Rarely,3
+37,Female,Bachelor's,High,2,1,Yes,6,Weekly,1
+45,Male,High School,High,6,2,No,10,Weekly,5
+25,Female,Master's,High,4,5,Yes,10,Weekly,3
+78,Female,Bachelor's,Middle,4,4,Yes,10,Never,5
+58,Female,Master's,Low,5,4,Yes,5,Weekly,4
+56,Male,Bachelor's,Middle,6,2,Yes,3,Weekly,4
+18,Female,Bachelor's,Middle,8,2,No,4,Daily,3
+20,Female,High School,Low,10,1,No,8,Daily,5
+30,Female,High School,Low,4,3,Yes,10,Weekly,4
+45,Male,PhD,High,8,2,Yes,9,Rarely,5
+79,Female,High School,High,10,3,No,5,Rarely,3
+74,Male,PhD,High,8,2,No,4,Never,5
+77,Male,Bachelor's,Middle,9,5,Yes,3,Weekly,5
+66,Male,High School,Low,7,5,No,6,Weekly,3
+42,Female,High School,Low,10,1,Yes,2,Rarely,4
+73,Male,High School,Low,9,1,Yes,8,Weekly,4
+50,Male,Master's,Low,9,3,No,10,Daily,3
+55,Male,Bachelor's,Low,10,2,Yes,3,Daily,3
+70,Male,High School,High,10,4,Yes,2,Rarely,5
+23,Female,High School,Middle,8,1,Yes,3,Daily,3
+75,Female,High School,Low,9,4,No,10,Rarely,3
+61,Male,Bachelor's,Low,4,4,No,10,Daily,5
+62,Male,High School,Middle,5,2,Yes,4,Weekly,2
+49,Female,Master's,Low,3,3,Yes,10,Weekly,2
+62,Male,High School,High,10,2,Yes,2,Weekly,3
+78,Male,High School,Middle,10,1,Yes,10,Daily,1
+64,Female,Bachelor's,Middle,10,4,Yes,10,Rarely,3
+38,Female,Bachelor's,Low,10,2,No,10,Weekly,5
+33,Male,PhD,Low,8,2,Yes,8,Daily,4
+71,Female,Bachelor's,Middle,5,2,Yes,10,Weekly,4
+38,Male,High School,Middle,7,1,Yes,3,Daily,4
+28,Female,Bachelor's,Middle,5,3,Yes,7,Daily,4
+77,Male,High School,Low,4,2,No,7,Daily,5
+54,Male,High School,Middle,3,1,Yes,2,Rarely,5
+53,Male,PhD,Middle,7,4,Yes,10,Weekly,5
+52,Female,Master's,High,4,5,Yes,7,Weekly,5
+36,Female,PhD,Low,5,1,Yes,10,Daily,3
+37,Male,Bachelor's,Low,2,5,Yes,4,Daily,5
+74,Male,Bachelor's,Middle,7,2,Yes,7,Never,5
+35,Female,High School,Middle,7,2,Yes,2,Weekly,2
+64,Male,High School,Middle,10,1,Yes,5,Rarely,1
+58,Male,Master's,Middle,6,5,Yes,7,Daily,3
+66,Female,High School,Middle,4,2,Yes,7,Daily,2
+31,Male,Master's,High,8,4,No,10,Rarely,5
+32,Female,Bachelor's,Middle,3,3,Yes,10,Weekly,3
+48,Female,High School,High,10,3,Yes,4,Daily,5
+18,Male,Bachelor's,Middle,3,2,Yes,10,Daily,3
+70,Male,Bachelor's,High,10,5,Yes,8,Rarely,4
+71,Male,High School,High,10,2,No,8,Daily,5
+71,Female,Master's,Low,6,5,Yes,10,Weekly,3
+20,Female,Bachelor's,High,5,4,No,4,Daily,5
+33,Female,High School,Low,3,5,Yes,10,Daily,3
+40,Male,Bachelor's,High,6,2,Yes,10,Never,2
+74,Female,PhD,Middle,10,4,No,9,Daily,4
+28,Female,High School,Low,3,1,Yes,7,Weekly,4
+29,Female,Master's,Middle,4,3,Yes,5,Rarely,2
+27,Female,High School,High,5,2,Yes,3,Daily,5
+49,Female,Master's,Low,7,2,No,5,Daily,5
+33,Female,Bachelor's,Middle,2,2,Yes,10,Weekly,2
+25,Female,High School,Middle,8,4,No,2,Daily,4
+55,Male,High School,High,10,1,Yes,6,Daily,2
+29,Male,Master's,Middle,8,5,No,10,Daily,5
+41,Female,Bachelor's,Low,10,1,Yes,4,Weekly,4
+45,Male,Bachelor's,Low,6,4,No,7,Weekly,4
+70,Female,High School,Middle,9,2,Yes,9,Weekly,4
+25,Female,Master's,Middle,3,3,No,10,Daily,5
+75,Female,Bachelor's,High,7,2,Yes,7,Weekly,5
+45,Male,Master's,Low,4,5,Yes,5,Never,5
+53,Male,High School,Middle,10,3,Yes,4,Weekly,2
+43,Male,Bachelor's,Low,7,2,Yes,8,Weekly,5
+25,Female,Bachelor's,Low,8,3,Yes,10,Weekly,4
+75,Female,High School,Middle,4,1,No,10,Rarely,4
+77,Female,Bachelor's,Middle,10,4,No,7,Rarely,3
+67,Male,High School,Middle,10,2,Yes,10,Daily,4
+45,Female,Bachelor's,High,9,5,No,6,Daily,5
+45,Female,Bachelor's,Middle,10,1,Yes,6,Daily,2
+54,Male,High School,High,8,2,Yes,6,Daily,5
+58,Female,Bachelor's,High,8,1,No,4,Daily,4
+53,Male,Bachelor's,Middle,10,5,Yes,10,Rarely,4
+44,Male,High School,High,10,2,No,3,Daily,5
+71,Female,PhD,Middle,9,5,Yes,10,Weekly,3
+34,Male,Master's,Low,4,3,Yes,5,Weekly,5
+26,Female,Bachelor's,Middle,6,5,Yes,10,Daily,4
+50,Female,High School,Low,4,3,Yes,10,Rarely,4
+70,Female,Master's,Middle,8,2,Yes,6,Rarely,3
+37,Male,Bachelor's,Middle,10,3,No,10,Daily,5
+30,Female,High School,Low,10,2,No,8,Daily,2
+45,Female,Bachelor's,Low,3,2,No,6,Daily,5
+65,Female,Bachelor's,High,10,4,Yes,8,Weekly,5
+46,Male,Bachelor's,Middle,7,2,Yes,6,Daily,4
+30,Male,Bachelor's,Low,7,3,Yes,10,Weekly,4
+63,Female,Bachelor's,Middle,10,4,Yes,9,Rarely,5
+52,Male,Master's,Middle,10,4,Yes,4,Daily,4
+78,Female,High School,Middle,9,2,No,4,Rarely,4
+23,Female,Bachelor's,High,6,5,Yes,5,Daily,5
+35,Female,Master's,Middle,8,5,Yes,4,Rarely,4
+68,Female,Bachelor's,Low,4,4,Yes,8,Daily,5
+22,Female,Bachelor's,High,6,2,Yes,10,Weekly,5
+64,Female,Bachelor's,High,5,5,Yes,10,Daily,5
+42,Female,Bachelor's,Low,6,2,No,10,Rarely,5
+19,Female,Master's,Low,7,2,Yes,10,Weekly,5
+27,Male,Bachelor's,Low,6,4,No,9,Daily,3
+73,Male,PhD,Middle,9,4,Yes,10,Weekly,3
+47,Female,High School,Middle,4,1,Yes,9,Daily,1
+67,Male,High School,Middle,6,5,Yes,7,Weekly,4
+76,Male,Bachelor's,High,10,5,No,10,Rarely,5
+62,Male,High School,Middle,5,5,No,4,Daily,3
+22,Female,High School,Low,7,3,Yes,10,Daily,5
+72,Female,High School,Low,8,2,Yes,10,Daily,3
+73,Female,High School,Middle,10,4,Yes,10,Weekly,5
+50,Female,High School,Low,3,5,Yes,5,Daily,5
+71,Female,PhD,Middle,10,1,No,10,Daily,3
+18,Male,High School,High,4,5,Yes,10,Daily,5
+35,Female,Bachelor's,Low,3,2,Yes,4,Daily,4
+49,Male,Master's,Middle,6,2,Yes,5,Never,3
+64,Female,Master's,Middle,4,4,Yes,10,Daily,5
+66,Female,High School,Middle,5,3,Yes,4,Weekly,5
